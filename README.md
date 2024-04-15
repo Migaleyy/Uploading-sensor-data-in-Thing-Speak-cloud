@@ -1,5 +1,5 @@
-#### Name: NAVEEN M
-#### Reg.No: 212222110029
+#### Name: Migal G Arunadann
+#### Reg.No: 212222110025
 # Experiment 3: Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
